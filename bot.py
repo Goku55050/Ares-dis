@@ -24,7 +24,7 @@ def keep_alive():
 # --- CONFIGURATION ---
 # Add all your bot tokens to this list
 TOKENS = [
-    'MTQ5Mzk2NzExODU5NTUyNjcwNw.G7PAL1.LRGAPEwByFWnCXTqPRAemBhwGSjpHA18NrYgPY',
+    'MTQ5Mzk2NzExODU5NTUyNjcwNw.GWAOs5.Rx5Zdxw4hUBjt-li3aUU7RoKYAK0tJ7XhI5liw',
     # 'ANOTHER_TOKEN_HERE',
 ] 
 
